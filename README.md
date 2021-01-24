@@ -7,7 +7,7 @@ INSTALL
 
 1. Open Atom and navigate to Edit -> Preferences -> Install (sidebar)
 
-2. Click on the Themes button next to the search bar.
+2. Click the Themes button next to the search bar.
   
 3. Search for conifer-dark-syntax.
   
