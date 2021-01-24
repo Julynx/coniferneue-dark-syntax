@@ -5,7 +5,7 @@ Another Organic Color Palette.
 
 INSTALL
 
-1. Download using the GitHub .zip download option and unzip.
+1. Clone this repo: "git clone https://github.com/Julynx/conifer-dark-syntax"
 
 2. Move the "conifer-dark-syntax" folder to "~/.atom/packages". If you dont see the ".atom" folder, try using CTRL + H to show hidden folders in most linux distros. If there is no "packages" folder inside the ".atom" folder, create a folder and name it "packages".
   
@@ -26,4 +26,4 @@ UNINSTALL
 CONTACT
   
  - Julio Cabria - julicabria@outlook.com
- - GitHub - https://github.com/Julynx/conifer_atom
+ - GitHub - https://github.com/Julynx/conifer-dark-syntax
