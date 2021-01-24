@@ -21,7 +21,7 @@ UNINSTALL
 
 3. Look for "conifer-dark-syntax" under the "Installed Themes" section.
 
-4. Click the "Uninstall" button.
+4. Click on the "Uninstall" button.
   
 CONTACT
   
