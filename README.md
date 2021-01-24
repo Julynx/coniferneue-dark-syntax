@@ -5,7 +5,7 @@ Another Organic Color Palette.
 
 INSTALL
 
-1. Open Atom and navigate to Edit -> Preferences -> Install
+1. Open Atom and navigate to Edit -> Preferences -> Install (sidebar)
 
 2. Click on the Themes button next to the search bar.
   
