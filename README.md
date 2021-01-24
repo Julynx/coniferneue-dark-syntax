@@ -1,4 +1,4 @@
-# conifer_atom
+# Conifer for Atom
 Another Organic Color Palette.
 
 ![alt text](conifer_new.png)
