@@ -12,7 +12,7 @@
     "color",
     "pastel"
   ],
-  "repository": "https://github.com/Julynx/conifer_atom",
+  "repository": "https://github.com/Julynx/conifer-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
