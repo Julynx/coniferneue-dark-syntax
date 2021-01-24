@@ -1,10 +1,17 @@
 {
   "name": "conifer-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.8",
   "description": "Another Organic Color Palette.",
-  "engines": {"atom": ">=1.0.0 <2.0.0"},
-  "dependencies": {},
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "material design"
+  ],
   "repository": "https://github.com/Julynx/conifer-dark-syntax",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
 }
