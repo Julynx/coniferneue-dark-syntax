@@ -26,4 +26,4 @@ UNINSTALL
 CONTACT
   
  - Julio Cabria - julicabria@outlook.com
- - GitHub - https://github.com/Julynx/conifer-dark-syntax
+ - GitHub - https://github.com/Julynx/coniferneue-dark-syntax
