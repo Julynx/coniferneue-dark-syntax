@@ -1,15 +1,17 @@
 {
-  "name": "conifer-dark-syntax",
+  "name": "confluence-dark-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "Another Organic Color Palette.",
+  "description": "Conflux Reimagined.",
   "keywords": [
     "syntax",
     "theme",
     "material",
+    "conflux",
+    "reimagined",
     "material design"
   ],
-  "repository": "https://github.com/julynx/conifer-dark-syntax",
+  "repository": "https://github.com/julynx/confluence-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
